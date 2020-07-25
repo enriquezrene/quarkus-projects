@@ -1,6 +1,6 @@
-package org.acme;
+package org.acme.products;
 
-import org.acme.domain.Product;
+import org.acme.products.domain.Product;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;

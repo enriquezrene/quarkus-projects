@@ -1,4 +1,4 @@
-package org.acme.domain;
+package org.acme.products.domain;
 
 public class Product {
 
